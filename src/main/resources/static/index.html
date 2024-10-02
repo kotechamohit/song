@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Song Playlist</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Song Playlist</h1>
+
+        <div id="songForm">
+            <input type="hidden" id="songId">
+            <input type="text" id="songName" placeholder="Song Name" required>
+            <input type="text" id="lyricist" placeholder="Lyricist" required>
+            <input type="text" id="singer" placeholder="Singer" required>
+            <input type="text" id="musicDirector" placeholder="Music Director" required>
+            <button onclick="addOrUpdateSong()">Add/Update Song</button>
+        </div>
+
+        <div id="songList">
+            <h2>Song List</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Name</th>
+                        <th>Lyricist</th>
+                        <th>Singer</th>
+                        <th>Music Director</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody id="songTableBody"></tbody>
+            </table>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
