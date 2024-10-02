@@ -1,5 +1,3 @@
-Here's an updated `README.md` that includes both the existing backend Spring Boot features and the new frontend features you've added.
-
 ---
 
 # Music Library Manager
