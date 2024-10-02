@@ -131,10 +131,13 @@ JavaScript to handle:
 
 ### Screenshots
 *Frontend:*
+
 ![image](https://github.com/user-attachments/assets/201e7f1a-64e3-48e8-af3e-9bc187144676)
 
-*H2-Console*
+*H2-Console:*
+
 ![image](https://github.com/user-attachments/assets/0777ca67-5f54-43c7-96a4-087edf72e3c5)
+
 ![image](https://github.com/user-attachments/assets/a00edc8c-8b7d-462a-8d2d-d99babe2b100)
 
 ---
