@@ -130,7 +130,6 @@ JavaScript to handle:
 ---
 
 ### Screenshots
-*To be added*: Screenshots of the frontend showing the song management interface.
 ![image](https://github.com/user-attachments/assets/201e7f1a-64e3-48e8-af3e-9bc187144676)
 
 ---
