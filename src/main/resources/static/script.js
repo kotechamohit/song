@@ -94,3 +94,20 @@ function clearForm() {
 
 // Load songs when the page loads
 window.onload = fetchSongs;
+
+// Hiding the "Print This Page" button after being clicked
+document.getElementById("printButton").addEventListener("click", function () {
+    const printButton = this;
+
+    // Temporarily hide the button
+    printButton.style.display = "none";
+
+    // Print the page
+    window.print();
+
+    // Restore the button after printing
+    setTimeout(() => {
+        printButton.style.display = "block";
+    }, 0); // Delay to ensure print dialog has closed
+});
+
