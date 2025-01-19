@@ -138,6 +138,10 @@ JavaScript to handle:
 
 ![image](https://github.com/user-attachments/assets/a00edc8c-8b7d-462a-8d2d-d99babe2b100)
 
+*Swagger-UI(API Documentation):*
+
+![image](https://github.com/user-attachments/assets/b012bda5-4674-448e-88d9-0c7b0d72f9c7)
+
 ---
 
 This README now reflects both the backend API and frontend features of the project. Let me know if you'd like to add or change anything!
